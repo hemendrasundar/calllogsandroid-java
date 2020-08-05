@@ -1,0 +1,21 @@
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/date"
+        android:title="Red"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        app:showAsAction="always|withText"
+        android:orderInCategory="1"
+        />
+    <item
+        android:id="@+id/upload_btn"
+        android:title="Red"
+        android:icon="@drawable/ic_cloud_upload_black_24dp"
+        app:showAsAction="always|withText"
+        android:orderInCategory="1"
+        />
+
+</menu>
